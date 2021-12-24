@@ -1,4 +1,4 @@
-export const quiz =[
+const quiz =[
   {
     question : '悪意ある目的で高い技術力を活かす人を別名なんと言うか',
     answers : ['クラッカー','スクリプトキティ','ハッカー','故意犯'],
@@ -270,3 +270,5 @@ export const quiz =[
     correct: 'ブルートフォース攻撃'
   },
 ]
+
+export default quiz;
